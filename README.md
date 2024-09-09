@@ -31,8 +31,12 @@ Run this command: git clone https://github.com/istimam-hossen/TestCase_BookValle
 You should see the TestCase_BookValley.xlsx file on your pc
 ```
 ## Screenshot
-
+Test Case:
 ![image](https://github.com/user-attachments/assets/2ec55fce-d18e-40d1-9740-7d74fbe7016e)
+
+Test Report:
+![image](https://github.com/user-attachments/assets/ad4dc4c4-0816-4b13-931e-310864f4e47c)
+
 
 ## Author
 
