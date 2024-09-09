@@ -4,12 +4,24 @@ This project is on Test cases for website testing purpose for Book Valley (https
 
 ## Getting Started
 
+```
 Install git on your pc
+```
+```
 Make a folder on anywhere in your pc
+```
+```
 Right click any blank area inside the folder and open more options
+```
+```
 Click on run git bash here
+```
+```
 Run this command: git clone https://github.com/istimam-hossen/TestCase_BookValley
+```
+```
 You should see the TestCase_BookValley.xlsx file on your pc
+```
 
 
 ### Prerequisites
