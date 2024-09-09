@@ -4,6 +4,14 @@ This project is on Test cases for website testing purpose for Book Valley (https
 
 ## Getting Started
 
+
+## Prerequisites
+
+```
+Git
+```
+
+## Installing
 ```
 Install git on your pc
 ```
@@ -22,31 +30,9 @@ Run this command: git clone https://github.com/istimam-hossen/TestCase_BookValle
 ```
 You should see the TestCase_BookValley.xlsx file on your pc
 ```
+## Screenshots
 
-
-### Prerequisites
-
-```
-Git
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+![image](https://github.com/user-attachments/assets/2ec55fce-d18e-40d1-9740-7d74fbe7016e)
 
 ## Authors
 
