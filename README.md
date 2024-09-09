@@ -5,7 +5,7 @@ This project is on Test cases for website testing purpose for Book Valley (https
 ## Getting Started
 
 
-## Prerequisites
+## Prerequisite
 
 ```
 Git
@@ -30,15 +30,15 @@ Run this command: git clone https://github.com/istimam-hossen/TestCase_BookValle
 ```
 You should see the TestCase_BookValley.xlsx file on your pc
 ```
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/2ec55fce-d18e-40d1-9740-7d74fbe7016e)
 
-## Authors
+## Author
 
 * **Istimam Hossen Akib**
 
-## Acknowledgments
+## Acknowledgment
 
 * My teacher, from whom I learned to write test cases
 
